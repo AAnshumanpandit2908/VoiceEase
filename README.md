@@ -4,8 +4,6 @@
 
 **VoiceEase** is an accessibility-focused platform designed to make learning and speaking practice more inclusive through voice interaction and AI-assisted feedback. It aims to support visually impaired learners and individuals who want to build speaking confidence, including people who stammer.
 
-🌐 **Live Demo:** [Explore VoiceEase](https://speakease-102583844019.us-west1.run.app/signup)
-
 ---
 
 ## 📌 About the Project
@@ -95,7 +93,7 @@ The exact frameworks, database, authentication provider, and AI integrations sho
 | Database      | To be confirmed from source code                                           |
 | Speech AI     | Gnani Voice AI was previously considered for integration                   |
 | AI Evaluation | To be confirmed                                                            |
-| Deployment    | [Live application](https://speakease-102583844019.us-west1.run.app/signup) |
+| Deployment    | Link We will be Uploading soon                                             |
 
 ---
 
